@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,500;0,700;1,400;1,500;1,700&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins' ;
+    
+}
+.navbar-nav{
+    text-align: center !important;
+}
+.collapse{
+    text-align: center !important;
+}
+.portfolio{
+    padding-left: 10%;
+    padding-right: 20%;
+    color: #fff !important;
+}
+.nav-link{
+    padding-left: 10px !important;
+}
+.btn1{
+    margin-left: 10px !important;
+}
+.nav-link:hover{
+    color: crimson !important;
+}
+.portfolio span{
+    color: crimson;
+}
+.welcome h5{
+    font-size: 20px;
+    color: #fff;
+    
+}
+.welcome h1{
+    color: #fff;
+    font-weight: bold;
+    font-size: 50px;
+}
+.welcome p{
+    color: #fff;
+    font: 25px;
+}
+.welcome{
+    width: 100%;
+    padding-left: 10%;
+    padding-top: 2%;
+    background: #000;
+    font-family: 'Ubuntu';
+    padding-bottom: 20vh;
+
+}
+.welcome span{
+    color: crimson;
+}
+.img img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 30px 10px 30px !important;
+}
+.headings{
+    padding-top: 10%;
+}
+.Skills{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.progress{
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.container h1{
+    padding: 10% 0% 5%; 
+    font-weight: bold;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.svg img{
+    height: 600x;
+    width: 600px;
+}
+.skills{
+    padding: 30px 15px 30px 15px !important;
+}
+.skills h2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: crimson;
+    padding: 5% 0%;
+    font-size: 35px;
+}
+.progress-bar{
+    background: crimson !important;
+    color: #fff !important;
+}
+.about h2{
+    color: crimson;
+    padding: 5% 0% 0% 0%;
+    font-size: 35px;
+}
+.para p{
+    padding: 15%;
+    
+}
+.contact h2{
+    font-size: 35px;
+    color: crimson;
+    padding: 5% 0%;
+}
+
+.btn2{
+    margin-bottom: 20px;
+}
+.input1{
+    margin: 40px 0px 5px 30px ;
+}
+
+.nav-item{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0px 0px 0px 0px ;
+}
+.btn1{
+    margin: 10px 0px 5px 10px !important;
+}
+footer {
+    background: #000;
+    padding: 15px 0px 10px 0px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+footer p{
+    color: #fff;
+    text-align: center;
+}
